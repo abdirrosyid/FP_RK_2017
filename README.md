@@ -1,4 +1,7 @@
-# FP_RK_2017
+# Final Project Rekayasa Kebutuhan.
+
+## Developer  : PAFORE (Personal Assistant for Organizing Routine)
+## Client     : SI Pengumpulan KP/TA
 
 Repositori ini dibuat untuk menyelesaikan Final Project Mata Kuliah Rekayasa Kebutuhan kelas C Tahun 2017.
 
